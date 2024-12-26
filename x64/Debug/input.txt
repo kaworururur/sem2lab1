@@ -1,0 +1,4 @@
+Ivanov.K.L 4 5 4 2
+Oregov.U.D 3 3 3 2
+Petrova.O.P 5 4 5 5
+Pavlov.P.P 3 4 3 4
